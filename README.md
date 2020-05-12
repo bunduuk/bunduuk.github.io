@@ -4,7 +4,7 @@ Hi, "Bunduuk" is the alias name taken up by me in Steam! I also play Minecraft w
 
 ### Project links:
 
-* [AltStore Resource](https://bunduuk.github.io/altstore-source/)
+* [AltStore Source](https://bunduuk.github.io/altstore-source/)
 
 ## You can find me at:
 [Twitter](https://twitter.com/apurva_leo)
